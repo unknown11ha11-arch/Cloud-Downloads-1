@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4532",
+  "folder": "Movies__Marika_1_HNI_20260514043209_73b3f6",
+  "base_name": "Movies__Marika_1_HNI_20260514043209_73b3f6.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-1/releases/tag/co-releases-v1-4532",
+  "files": [
+    {
+      "name": "Movies__Marika_1_HNI_20260514043209_73b3f6.mp4",
+      "url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-1/releases/download/co-releases-v1-4532/Movies__Marika_1_HNI_20260514043209_73b3f6.mp4",
+      "api_url": "https://api.github.com/repos/unknown11ha11-arch/Cloud-Downloads-1/releases/assets/419875571",
+      "id": 419875571,
+      "size": 35565,
+      "download_count": 0
+    }
+  ]
+}
