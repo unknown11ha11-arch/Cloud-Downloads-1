@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8644",
+  "folder": "Movies__Karu_Mura_1_20260514042524_856725",
+  "base_name": "Movies__Karu_Mura_1_20260514042524_856725.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-1/releases/tag/co-releases-v1-8644",
+  "files": [
+    {
+      "name": "Movies__Karu_Mura_1_20260514042524_856725.mp4",
+      "url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-1/releases/download/co-releases-v1-8644/Movies__Karu_Mura_1_20260514042524_856725.mp4",
+      "api_url": "https://api.github.com/repos/unknown11ha11-arch/Cloud-Downloads-1/releases/assets/419872228",
+      "id": 419872228,
+      "size": 35557,
+      "download_count": 0
+    }
+  ]
+}
