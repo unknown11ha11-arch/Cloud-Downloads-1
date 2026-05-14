@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3953",
+  "folder": "Movies__twitch_nicholaslighttv_2026-05-13_14-10-37_480p_Just_Chatting_WA_20260514013527_7fd460",
+  "base_name": "Movies__twitch_nicholaslighttv_2026-05-13_14-10-37_480p_Just_Chatting_WA_20260514013527_7fd460.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-1/releases/tag/co-releases-v1-3953",
+  "files": [
+    {
+      "name": "Movies__twitch_nicholaslighttv_2026-05-13_14-10-37_480p_Just_Chatting_WA_20260514013527_7fd460.mp4",
+      "url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-1/releases/download/co-releases-v1-3953/Movies__twitch_nicholaslighttv_2026-05-13_14-10-37_480p_Just_Chatting_WA_20260514013527_7fd460.mp4",
+      "api_url": "https://api.github.com/repos/unknown11ha11-arch/Cloud-Downloads-1/releases/assets/419774093",
+      "id": 419774093,
+      "size": 1148088992,
+      "download_count": 0
+    }
+  ]
+}
