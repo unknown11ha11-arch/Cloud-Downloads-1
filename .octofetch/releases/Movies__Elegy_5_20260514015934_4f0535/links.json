@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6724",
+  "folder": "Movies__Elegy_5_20260514015934_4f0535",
+  "base_name": "Movies__Elegy_5_20260514015934_4f0535.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-1/releases/tag/co-releases-v1-6724",
+  "files": [
+    {
+      "name": "Movies__Elegy_5_20260514015934_4f0535.mp4",
+      "url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-1/releases/download/co-releases-v1-6724/Movies__Elegy_5_20260514015934_4f0535.mp4",
+      "api_url": "https://api.github.com/repos/unknown11ha11-arch/Cloud-Downloads-1/releases/assets/419788860",
+      "id": 419788860,
+      "size": 35545,
+      "download_count": 0
+    }
+  ]
+}
