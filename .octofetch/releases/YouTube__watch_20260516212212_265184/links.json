@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5769",
+  "folder": "YouTube__watch_20260516212212_265184",
+  "base_name": "Playing_SEKIRO_Shadows_Die_Twice_for_THE_FIRST_TIME_NudE5mRhAsg_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-1/releases/tag/co-releases-v1-5769",
+  "files": [
+    {
+      "name": "Playing_SEKIRO_Shadows_Die_Twice_for_THE_FIRST_TIME_NudE5mRhAsg_480p.mp4",
+      "url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-1/releases/download/co-releases-v1-5769/Playing_SEKIRO_Shadows_Die_Twice_for_THE_FIRST_TIME_NudE5mRhAsg_480p.mp4",
+      "api_url": "https://api.github.com/repos/unknown11ha11-arch/Cloud-Downloads-1/releases/assets/422062167",
+      "id": 422062167,
+      "size": 1431778101,
+      "download_count": 0
+    }
+  ]
+}
